@@ -1,0 +1,6 @@
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\Class Library\bin\Debug\Class Library.dll
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\Class Library\bin\Debug\Class Library.pdb
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\Class Library\obj\Debug\Class Library.csprojAssemblyReference.cache
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\Class Library\obj\Debug\Class Library.csproj.CoreCompileInputs.cache
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\Class Library\obj\Debug\Class Library.dll
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\Class Library\obj\Debug\Class Library.pdb

@@ -1,0 +1,13 @@
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\obj\Debug\terbilang.csprojAssemblyReference.cache
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\obj\Debug\terbilang.Form1.resources
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\obj\Debug\terbilang.Properties.Resources.resources
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\obj\Debug\terbilang.csproj.GenerateResource.cache
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\obj\Debug\terbilang.csproj.CoreCompileInputs.cache
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\bin\Debug\terbilang.exe.config
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\bin\Debug\terbilang.exe
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\bin\Debug\terbilang.pdb
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\bin\Debug\Class Library.dll
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\bin\Debug\Class Library.pdb
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\obj\Debug\terbilang.csproj.CopyComplete
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\obj\Debug\terbilang.exe
+C:\Users\Wahyu\Downloads\Compressed\eva\terbilang\terbilang\obj\Debug\terbilang.pdb

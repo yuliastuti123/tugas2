@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "terbilang", "terbilang\terbilang.csproj", "{116248F5-C0D7-47F3-9353-B047053F9676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Library", "Class Library\Class Library.csproj", "{919ADD8F-DCE2-4855-B91E-EA03C3EAE7F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116248F5-C0D7-47F3-9353-B047053F9676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116248F5-C0D7-47F3-9353-B047053F9676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116248F5-C0D7-47F3-9353-B047053F9676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116248F5-C0D7-47F3-9353-B047053F9676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919ADD8F-DCE2-4855-B91E-EA03C3EAE7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919ADD8F-DCE2-4855-B91E-EA03C3EAE7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919ADD8F-DCE2-4855-B91E-EA03C3EAE7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919ADD8F-DCE2-4855-B91E-EA03C3EAE7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3EC0E16-5EB0-4602-8F60-D567963406C8}
+	EndGlobalSection
+EndGlobal
